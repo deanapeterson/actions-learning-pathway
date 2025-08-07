@@ -18,7 +18,7 @@ export default function Home() {
 
        <h1>Congratulations!</h1>
   <p>You&apos;ve completed the essentials of automated application deployment with GitHub Actions! 🥳</p>
-
+<h2>Boogers</h2>
       </main>
     </>
   )
